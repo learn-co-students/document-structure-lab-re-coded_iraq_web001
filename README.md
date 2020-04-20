@@ -1,4 +1,4 @@
-# Document Structure Continued
+ # Document Structure Continued
 
 ## Problem Statement
 
